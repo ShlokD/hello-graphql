@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ShlokD/hello-graphql/issues"
   },
-  "homepage": "https://github.com/ShlokD/hello-graphql"
+  "homepage": "https://github.com/ShlokD/hello-graphql",
+  "dependencies": {
+    "babel-preset-es2015": "^6.16.0"
+  }
 }
